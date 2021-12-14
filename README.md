@@ -1,6 +1,6 @@
 # Hi friend, good to see you here 👋
-My name is Jakub (my friends call me Kuba 😃)    
-I am a computer engineering student from Wrocław.  
+My name is Jakub, but my friends call me simply Kuba 😃   
+I am a computer engineering student from Wrocław, 🇵🇱  
 My maxim is *Stop looking for obstacles, start looking for possibilities* 🙌
 
 ## Currently on my agenda
