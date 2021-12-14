@@ -1,7 +1,7 @@
 # Hi friend, good to see you here 👋
 My name is Jakub, but friends call me Kuba 😃   
-I am a computer engineering student from Wrocław 🇵🇱  
-My maxim is *Stop looking for obstacles, start looking for possibilities* 🙌
+I'm a computer engineering student from Wrocław 🇵🇱  
+My personal maxim is *Stop looking for obstacles, start looking for possibilities* 🙌
 
 ## Currently on my agenda
 💻 Effective algorithms project   
