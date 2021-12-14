@@ -1,4 +1,4 @@
-### Hi friend, good to see you here 👋
+# Hi friend, good to see you here 👋
 My name is Jakub (my friends call me Kuba 😃). I am a computer engineering student from Wrocław, with an open mind for learning new things.
 ## Currently on my agenda
 💻 Effective algorithms project 
