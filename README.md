@@ -1,5 +1,9 @@
 ### Hi friend, good to see you here 👋
-My name is Jakub, but my friends call me Kuba :) I am an computer engineering student from Wrocław, with an open mind for learning new things.
+My name is Jakub (my friends call me Kuba 😃). I am an computer engineering student from Wrocław, with an open mind for learning new things.
+## Currently on my agenda
+💻 Effective algorithms project 
+⚛️ Social media app based on React
+
 Underneath in the `Pinned` section you can find my most interesting repositories.
 <!--
 **wrzchwc/wrzchwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
