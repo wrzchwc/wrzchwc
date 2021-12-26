@@ -8,7 +8,7 @@ My personal maxim is *Stop looking for obstacles, start looking for possibilitie
 ⚛️ Social media app based on React
 
 ## Repositories
-Underneath in the `Pinned` section you can find my most interesting repositories.
+Underneath, in the `Pinned` section you can find my most interesting repositories.
 <!--
 **wrzchwc/wrzchwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
