@@ -4,8 +4,8 @@ I'm a computer engineering student from Wrocław 🇵🇱
 My personal maxim is *Stop looking for obstacles, start looking for possibilities* 🙌
 
 ## Currently on my agenda
-💻 Effective algorithms project   
-⚛️ Social media app based on React
+💻 Effective algorithms project (Java)   
+⚛️ Social media app based (React, Redux, MUI)
 
 ## Repositories
 Underneath, in the `Pinned` section you can find my most interesting repositories.
