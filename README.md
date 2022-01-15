@@ -1,11 +1,11 @@
 # Hi friend, good to see you here 👋
 Call me Kuba 😃   
-I'm a computer engineering student from Wrocław 🇵🇱  
+I'm a computer engineering student from [Wrocław](https://en.wikipedia.org/wiki/Wroc%C5%82aw)
 My personal maxim is *Stop looking for obstacles, start looking for possibilities* 🙌
 
 ## Currently on my agenda
 💻 Effective algorithms project (Java)   
-⚛️ Social media app based (React, Redux, MUI)
+⚛️ Social media app (React, Redux, MUI)
 
 ## Repositories
 Underneath, in the `Pinned` section you can find my most interesting repositories.
