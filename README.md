@@ -1,5 +1,5 @@
 # Hi friend, good to see you here 👋
-My name is Jakub, but friends call me Kuba 😃   
+Call me Kuba 😃   
 I'm a computer engineering student from Wrocław 🇵🇱  
 My personal maxim is *Stop looking for obstacles, start looking for possibilities* 🙌
 
