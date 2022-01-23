@@ -4,7 +4,6 @@ I'm a computer engineering student from [Wrocław](https://en.wikipedia.org/wiki
 My personal maxim is *Stop looking for obstacles, start looking for possibilities* 🙌
 
 ## Currently on my agenda
-💻 Effective algorithms project (Java)   
 ⚛️ Social media app (React, Redux, MUI)
 
 ## Repositories
