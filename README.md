@@ -1,7 +1,7 @@
 # Hi Friend, good to see you here 👋
 Call me Kuba 😃   
 I'm a computer engineering student from [Wrocław](https://en.wikipedia.org/wiki/Wroc%C5%82aw)  
-My personal maxim is *Stop looking for obstacles, start looking for possibilities* 🙌
+My motto is *Stop looking for obstacles, start looking for possibilities* 🙌
 
 ## Currently on my agenda
 ⚛️ Social media app (React, Redux, MUI)
