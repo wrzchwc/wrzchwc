@@ -1,7 +1,5 @@
-# Hi Friend, good to see you here 👋
-Call me Kuba 🙂 
-My personal maxim is *Stop looking for obstacles, start looking for possibilities* 🙌
-
+*Stop looking for obstacles, start looking for possibilities* ✌
+# Hi Friend, good to see You here 👋
 ## Currently on my agenda
 ⚛️ Social media app (React, Redux, MUI)
 
