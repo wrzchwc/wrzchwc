@@ -1,7 +1,5 @@
 *Stop looking for obstacles, start looking for possibilities* ✌
 # Hi Friend, good to see you here 👋
-## Currently on my agenda
-⚛️ Social media app (React, Redux, MUI)
 
 ## Repositories
 Underneath, in the `Pinned` section you can find my most interesting repositories.
