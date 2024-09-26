@@ -1,5 +1,5 @@
 *Stop looking for obstacles, start looking for possibilities* ✌
-# Hi Friend, good to see you here 👋
+# Hey! good to see you here 👋
 
 ## Repositories
 Underneath, in the `Pinned` section you can find my most interesting repositories.
