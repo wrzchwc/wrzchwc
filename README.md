@@ -1,9 +1,7 @@
-*Stop looking for obstacles, start looking for possibilities* ✌
 # Hey! Good to see you here 👋
 
-My name is Jakub, friends call me Kuba. I'm a Senior Software Engineer specializing in frontend architecture and product quality, with experience designing and developing enterprise-scale web applications using Angular, TypeScript and RxJS. I combine strong engineering expertise with a broader product perspective — analysing requirements, challenging assumptions, and designing maintainable solutions.
+My name is Jakub, friends call me Kuba. I'm a **Senior Software Engineer** specializing in **frontend architecture** and **product quality**, with experience designing and developing **enterprise-scale** web **applications** using **Angular**, **TypeScript** and **RxJS**. I combine strong **engineering expertise** with a broader **product perspective** — analyzing requirements, **challenging** assumptions, and **designing** maintainable solutions and **improving** code quality, testability and system reliability.
 
-## Repositories
 Underneath, in the `Pinned` section you can find my most interesting repositories.
 <!--
 **wrzchwc/wrzchwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
